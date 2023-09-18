@@ -1,0 +1,8 @@
+# Mouse Mimicking Script Requirements
+
+# PyAutoGUI library for simulating mouse and keyboard input
+pyautogui==0.9.53
+
+# Python version requirement (adjust as needed)
+python>=3.7
+
